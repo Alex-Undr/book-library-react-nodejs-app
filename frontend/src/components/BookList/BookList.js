@@ -4,7 +4,7 @@ import {
   deleteBook,
   toggleFavorite,
   selectBooks,
-} from '../../redux/slices/bookSlices';
+} from '../../redux/slices/bookSlice';
 import {
   selectTitleFilter,
   selectAuthorFilter,
